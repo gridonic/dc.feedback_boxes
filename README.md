@@ -5,7 +5,7 @@ Most website today are interactive -- transfer of information is not only one-wa
 
 In the following image you can see the included icons:
 
-![Feedback Icons Example](http://github.com/designchuchi/dc.feedback_boxes/raw/master/dc-feedback-boxes-icons.jpg)
+![Feedback Icons Example](https://github.com/designchuchi/dc.feedback_boxes/raw/master/dc-feedback-boxes-icons.jpg)
 
 Usage
 =====
